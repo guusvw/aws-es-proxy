@@ -1,0 +1,7 @@
+{
+  "code_owners": false,
+  "main_branch": "master",
+  "private": false,
+  "language": "go",
+  "allow_forking": true
+}
